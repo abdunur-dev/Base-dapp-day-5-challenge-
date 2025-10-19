@@ -140,7 +140,7 @@ export function DAppContent() {
       {/* Footer */}
       <footer className="border-t border-border mt-16 py-8">
         <div className="container mx-auto px-4 text-center text-sm text-muted-foreground">
-          <p>Built with abdu{dev}, shadcn/ui, and Base</p>
+          <p>Built with Next.js , shadcn/ui, and Base | build by abdudev</p>
         </div>
       </footer>
     </>
