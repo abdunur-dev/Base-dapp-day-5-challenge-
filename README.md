@@ -1,7 +1,5 @@
 # ⚡ Fullstack Base dApp
 
-Live Demo → [v0-fullstack-d-app-development.vercel.app](https://v0-fullstack-d-app-development.vercel.app)
-
 A simple **Web3 dApp** that connects wallets, interacts with smart contracts, and showcases modern onchain UX — built using **v0.dev** and deployed on **Vercel**.
 
 ---
